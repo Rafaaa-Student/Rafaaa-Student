@@ -22,19 +22,3 @@ Koleksi 40+ solusi *competitive programming* dari Codeforces & LeetCode — dari
 | 40+ | 800 - 1600 Rating | Python 🐍 |
 
 ---
-
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
-### 📊 Statistik Aktivitas
-<p align="left">
-  <img src="https://vercel.app" alt="Statistik Fasya" width="400"/>
-  <img src="https://vercel.app" alt="Bahasa Terbanyak" width="300"/>
-</p>
