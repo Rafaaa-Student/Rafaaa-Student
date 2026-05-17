@@ -1,4 +1,4 @@
-# Halo programmer semua! Nam ku Raffasya Azka Alfarabi 👋
+# Halo programmer semua! Nama ku Raffasya Azka Alfarabi 👋
 
 Saya seorang pelajar kelas 7 SMP di **Al Kautsar Bandar Lampung** yang memiliki *passion* besar di bidang rekayasa perangkat lunak, AI, dan otomatisasi. Saya suka menantang diri untuk memecahkan masalah kompleks lewat baris kode.
 
