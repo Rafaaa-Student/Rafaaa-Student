@@ -1,8 +1,8 @@
-# Halo, sesama programmer ! Nama ku Raffasya Azka Alfarabi 👋
+# Halo, sesama programmer! Nama ku Raffasya Azka Alfarabi 👋
 
 Saya seorang pelajar kelas 7 SMP di **Al Kautsar Bandar Lampung** yang memiliki *passion* besar di bidang rekayasa perangkat lunak, AI, dan otomatisasi. Saya suka menantang diri untuk memecahkan masalah kompleks lewat baris kode.
 
-### Tentang Project Utama Saya: Zenn VII (Eco-Bot Ecosystem)
+### Tentang Project Utama Saya: Zenn VII (Eco-Bot Ecosystem) - Dibuat menggunakan Zed editor
 Saya menggabungkan teknologi **AI, Discord Bot, dan Website Dashboard** untuk membangun sebuah ekosistem interaktif ramah lingkungan yang futuristik.
 
 - **Gamifikasi & RPG Eco-Economy**: Fitur Dual-Currency (XP & Gold), sistem `$Shop`, `$Gacha`, dan Badge Koleksi untuk meningkatkan interaksi pengguna.
@@ -13,7 +13,7 @@ Saya menggabungkan teknologi **AI, Discord Bot, dan Website Dashboard** untuk me
 
 ---
 
-### 🏆 Competitive Programming (CP) Grind
+### 🏆 Competitive Programming (CP) Grind - Dibuat menggunakan Vanilla Terminal
 Koleksi 40+ solusi *competitive programming* dari Codeforces & LeetCode — dari problem *easy* yang bikin senyum sampai yang butuh otak-atik *sliding window* & *greedy*. *Write in Python with love* ☕
 
 
